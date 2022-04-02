@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Meowcorp /r/place overlay
-// @namespace    http://tampermonkey.net/
+// @namespace    meowcorp-place-overlay
 // @version      0.2
 // @description  credits to /r/osuplace for the script
 // @author       oralekin
